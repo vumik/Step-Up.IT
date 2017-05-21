@@ -1,6 +1,6 @@
 # Step Up IT
 
-* [Русская версия](/ru/index.md)
+* [Русская версия](/ru/readme.md)
 
 Pull-requests are welcome (if you want fix some typo error or add some good links)
 
