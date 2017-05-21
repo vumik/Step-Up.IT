@@ -3,9 +3,9 @@
 # Содержание
 
 1. [Изучение иностранных языков](/ru/languages.md)
-2. [Операционные системы](/ru/os/index.md)
-3. [Разработка](/ru/development/index.md)
-4. [Дизайн](/ru/design/index.md)
+2. [Операционные системы](/ru/os/readme.md)
+3. [Разработка](/ru/development/readme.md)
+4. [Дизайн](/ru/design/readme.md)
 5. [Питание](/ru/diet.md)
 6. [Личная эффективность](/ru/productivity.md)
 
